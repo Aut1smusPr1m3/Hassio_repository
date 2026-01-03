@@ -22,8 +22,9 @@
     "use_default_ports_for_discovery": "bool?",
     "verbose": "bool"
   },
-  "image": "ghcr.io/aut1smuspr1m3/emulatedhue_reworked"
+  "image": "ghcr.io/aut1smuspr1m3/emulatedhue_reworked:Test"
 }
+
 
 
 
