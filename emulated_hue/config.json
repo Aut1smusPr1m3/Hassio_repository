@@ -7,7 +7,7 @@
   "stage": "stable",
   "startup": "application",
   "boot": "auto",
-  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "arch": ["amd64", "i386"],
   "map": ["config:rw"],
   "host_network": true,
   "environment": {},
@@ -24,6 +24,7 @@
   },
   "image": "https://github.com/aut1smuspr1m3/emulatedhue_reworked:latest"
 }
+
 
 
 
