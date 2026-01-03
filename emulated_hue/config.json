@@ -3,7 +3,7 @@
   "version": "0.3.0",
   "description": "Hue Emulation for Home Assistant (custom build)",
   "url": "https://github.com/Aut1smusPr1m3/emulated_hue-Reworked",
-  "slug": "emulated_hue",
+  "slug": "emulated_hue_reworked",
   "stage": "stable",
   "startup": "application",
   "boot": "auto",
@@ -24,5 +24,6 @@
   },
   "image": "ghcr.io/Aut1smusPr1m3/emulated_hue-reworked:main"
 }
+
 
 
