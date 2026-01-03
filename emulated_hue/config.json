@@ -2,7 +2,7 @@
   "name": "Emulated HUE Modded",
   "version": "0.3.0",
   "description": "Hue Emulation for Home Assistant (custom build)",
-  "url": "https://github.com/Aut1smusPr1m3/emulated_hue-Reworked",
+  "url": "https://github.com/aut1smuspr1m3/emulatedhue_reworked",
   "slug": "emulated_hue_reworked",
   "stage": "stable",
   "startup": "application",
@@ -22,8 +22,9 @@
     "use_default_ports_for_discovery": "bool?",
     "verbose": "bool"
   },
-  "image": "ghcr.io/Aut1smusPr1m3/emulated_hue-reworked:latest"
+  "image": "https://github.com/aut1smuspr1m3/emulatedhue_reworked:latest"
 }
+
 
 
 
