@@ -22,6 +22,7 @@
     "use_default_ports_for_discovery": "bool?",
     "verbose": "bool"
   },
-  "image": "ghcr.io/Aut1smusPr1m3/emulated_hue-reworked:latest"
+  "image": "ghcr.io/Aut1smusPr1m3/emulated_hue-reworked:main"
 }
+
 
