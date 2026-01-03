@@ -1,0 +1,23 @@
+{
+  "name": "Emulated HUE (dev)",
+  "version": "0.3.0-dev",
+  "description": "Development build of Emulated HUE for testing",
+  "url": "https://github.com/Aut1smusPr1m3/emulated_hue-Reworked",
+  "slug": "emulated_hue_dev",
+  "stage": "experimental",
+  "startup": "application",
+  "boot": "auto",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "map": ["config:rw"],
+  "host_network": true,
+  "environment": {},
+  "homeassistant_api": true,
+  "init": false,
+  "options": {
+    "verbose": true
+  },
+  "schema": {
+    "verbose": "bool"
+  },
+  "image": "ghcr.io/Aut1smusPr1m3/emulated_hue-reworked:dev"
+}
