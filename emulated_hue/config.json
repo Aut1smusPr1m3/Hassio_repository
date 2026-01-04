@@ -22,10 +22,12 @@
     "http_port": "int?",
     "https_port": "int?",
     "use_default_ports_for_discovery": "bool?",
-    "verbose": "bool"
+    "verbose": "bool",
+    "test": "bool"
   },
   "image": "ghcr.io/aut1smuspr1m3/emulatedhue_reworked"
 }
+
 
 
 
