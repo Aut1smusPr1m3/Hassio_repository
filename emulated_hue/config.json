@@ -1,6 +1,6 @@
 {
   "name": "Emulated HUE Modded",
-  "version": "77",
+  "version": "78",
   "description": "Hue Emulation for Home Assistant (custom build)",
   "url": "https://github.com/aut1smuspr1m3/emulatedhue_reworked",
   "slug": "emulated_hue_reworked",
@@ -24,6 +24,7 @@
   },
   "image": "ghcr.io/aut1smuspr1m3/emulatedhue_reworked"
 }
+
 
 
 
