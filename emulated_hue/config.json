@@ -11,7 +11,7 @@
   "map": ["config:rw"],
   "host_network": true,
   "environment": {
-    "EMULATED_HUE_LABEL_FILTER": "light"
+    "EMULATED_HUE_LABEL_FILTER": "light,eg_wz"
   },
   "homeassistant_api": true,
   "init": false,
@@ -26,6 +26,7 @@
   },
   "image": "ghcr.io/aut1smuspr1m3/emulatedhue_reworked"
 }
+
 
 
 
