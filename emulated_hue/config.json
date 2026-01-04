@@ -10,9 +10,7 @@
   "arch": ["amd64", "i386"],
   "map": ["config:rw"],
   "host_network": true,
-  "environment": {
-    "EMULATED_HUE_LABEL_FILTER": "eg_wz"
-  },
+  "environment": {},
   "homeassistant_api": true,
   "init": false,
   "options": {
@@ -26,6 +24,7 @@
   },
   "image": "ghcr.io/aut1smuspr1m3/emulatedhue_reworked"
 }
+
 
 
 
